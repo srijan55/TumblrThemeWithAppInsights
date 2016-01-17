@@ -1,5 +1,5 @@
-# TumblrThemeWithAppInsights
-Here is a simple Tumblr theme with built in support for adding Microsoft Application Insights (AppInsights) to your blog
+# Tumblr Theme With Microsoft Application Insights
+Here is a simple Tumblr theme with built in support for adding Microsoft Application Insights ([AppInsights](https://github.com/Microsoft/ApplicationInsights-Home)) to your blog
 
 Feel free to fork and do your own customization changes
 
