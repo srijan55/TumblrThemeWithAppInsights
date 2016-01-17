@@ -5,4 +5,6 @@ Feel free to fork and do your own customization changes
 
 ### Here's how the custom editing option looks
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![Preview](https://github.com/srijan55/TumblrThemeWithAppInsights/blob/master/preview.png?raw=true)
+
+*The highlighted part is where you insert your Application Insights InstrumentationKey*
